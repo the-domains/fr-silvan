@@ -1,14 +1,26 @@
-layout_spectrum: 0.2138762
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.9468664
 color:
   saturation: 0.9397664
-  lightness: 0.163118
   brandStrength: 0.7708478
-  rhythmicContrast: 0.3449939
+  lightness: 0.4548872
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  rhythmicContrast: 0.3449939
+layout_spectrum: 0.2138762
 name: Für Silvan
