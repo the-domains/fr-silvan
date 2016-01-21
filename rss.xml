@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Für Silvan]]></title>
+        <description><![CDATA[Für Silvan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jan 2016 12:45:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LUCE]]></title>
+            <description><![CDATA[<article><h1>LUCE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18638f61aa162fb928f73ae5c4b45112ea201ac7.png"></article>]]></description>
+            <link>undefinedluce/index.html</link>
+            <guid isPermaLink="false">b171526d-c6a2-466d-9972-558fc8f2bb25</guid>
+            <pubDate>Thu, 21 Jan 2016 12:44:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
